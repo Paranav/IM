@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+sentence-transformers
+torch        # CPU; if you have GPU use appropriate torch build
